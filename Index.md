@@ -49,8 +49,8 @@ Remediation Outcomes
 Key Aspects that made this possible	  
 Final Statement	  
   
-INCIDENT RESPONSE PLAN AND ISMS (MANAGED SECURITY – ISO 27001:2022)	  
-1st Creating the Incident Response Plan  
+Phase 4: Incidence Response Plan And ISMS (MANAGED SECURITY – ISO 27001:2022)	  
+1st Creating the Incidence Response Plan  
 2nd Development of Detailed Procedures (Playbooks)  
 3rd Implementation of Data Protection Mechanisms (ISO 27001:2022 Annex A Controls)  
 4th Integration with ISO 27001:2022 ISMS  
