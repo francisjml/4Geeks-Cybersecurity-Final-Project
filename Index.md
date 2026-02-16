@@ -3,8 +3,8 @@ About This Report
 Phase 1: Recognition and collection of evidence.  
 Suspicious file found on /etc/cron.daily/apt-compat  
 /etc/cron.daily/apt-compat Suspicious code  
-/usr/lib/apt/apt.systemd.daily Suspicious code.	 
-/etc/cron.daily/man-db Suspicious code.  	
+/usr/lib/apt/apt.systemd.daily Suspicious code.  	 
+/etc/cron.daily/man-db Suspicious code.    	
 Conclusions  
   
 Phase 2: Detect Vulnerabilities.  
