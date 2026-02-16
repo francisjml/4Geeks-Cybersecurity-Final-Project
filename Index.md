@@ -54,7 +54,7 @@ INCIDENT RESPONSE PLAN AND ISMS (MANAGED SECURITY – ISO 27001:2022)
 2nd Development of Detailed Procedures (Playbooks)  
 3rd Implementation of Data Protection Mechanisms (ISO 27001:2022 Annex A Controls)  
 4th Integration with ISO 27001:2022 ISMS  
-Step 5: Data Loss Prevention (DLP) Recommendations - Control A.8.12  
+5th Data Loss Prevention (DLP) Recommendations - Control A.8.12  
 Conclusion and References  
   
 Annex  
