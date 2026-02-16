@@ -1,4 +1,4 @@
-About This Report	4
+About This Report  
 
 Phase 1: Recognition and collection of evidence.  
 Suspicious file found on /etc/cron.daily/apt-compat  
